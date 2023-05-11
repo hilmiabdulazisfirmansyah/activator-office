@@ -1,4 +1,4 @@
-# activator-office-2019
+# activator-offic
 Activator Office 2019 Legally and not require to disable firewall and Antivirus
 
 #How it to Works ?
